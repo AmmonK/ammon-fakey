@@ -1,0 +1,4 @@
+{
+  "pets": [{ "id": 1, "name": "nugget", "type": "dwarf hamster" }],
+  "users": [{ "id": 1, "name": "ammon", "username": "ammonking" }]
+}
