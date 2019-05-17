@@ -1,4 +1,5 @@
 {
   "pets": [{ "id": 1, "name": "nugget", "type": "dwarf hamster" }],
-  "users": [{ "id": 1, "name": "ammon", "username": "ammonking" }]
+  "users": [{ "id": 1, "name": "ammon", "username": "ammonking" }],
+  "fruits":[{"id":1, "name":"banana", "color":"yellow"}]
 }
